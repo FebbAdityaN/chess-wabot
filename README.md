@@ -14,7 +14,7 @@ $ cd chess-wabot
 $ npm i
 $ npm start
 
-Masukan Pairing Code nya, login tanpa QR.
+Masukan Pairing Code nya, login tanpa menggunakan QR.
 ```
 ## BUG/ERROR
 Terkadang pairing code tidak muncul, kamu dapat menghapus folder sesi untuk memulai ulang.
