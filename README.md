@@ -28,7 +28,7 @@ If there is a "sessions" folder you can delete it in the following way:
 $ rm -r sessions
 Then try again until you get the pairing code.
 ```
-### DONATE
+### DONATE/DONASI
 * DANA/GOPAY : 085770269605
 ## SPECIAL THANKS TO
 * <a href="https://github.com/whiskeysockets/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/baileys-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
