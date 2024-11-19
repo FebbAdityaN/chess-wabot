@@ -24,7 +24,8 @@ module.exports = async (conn, msg, m) => {
 		const groupMetadata = isGroup ? await conn.groupMetadata(from) : ''
 		const groupName = isGroup ? groupMetadata.subject : ''
 		const sender = isGroup ? msg.key.participant ? msg.key.participant : msg.participant : msg.key.remoteJid;
-		const isOwner = ["6285770269605@s.whatsapp.net"].includes(sender) ? true : false;
+		// Nomor Owner
+		const isOwner = ["62xxx@s.whatsapp.net"].includes(sender) ? true : false;
 		const pushname = msg.pushName;
 		const isCmd = chats.startsWith('#')
 		
