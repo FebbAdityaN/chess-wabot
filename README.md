@@ -4,9 +4,13 @@ Menggunakan lib dari [`Baileys`](https://github.com/whiskeysockets/baileys)
 dan menggunakan Module dari [`chess.js`](https://npmjs.com/package/chess.js)
 Jika script error silahkan klik [`Issues`](https://github.com/FebbAdityaN/chess-wabot/issues/new)
 ## INSTALL/PEMASANGAN
-Clone repo dan ikuti cara pemasangan dibawah:
+Clone repo dan ikuti cara pemasangan dibawah (Default Bahasa Indonesia):
 ```
 git clone https://github.com/FebbAdityaN/chess-wabot
+```
+For English language:
+```
+git clone -b lang_eng https://github.com/FebbAdityaN/chess-wabot
 ```
 Jika repo selesai di clone, dilanjut dengan:
 ```cmd
