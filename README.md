@@ -3,6 +3,8 @@ This script is intended for playing Chess using WhatsApp.
 Using lib from [`Baileys`](https://github.com/whiskeysockets/baileys)
 and use the Module from [`chess.js`](https://npmjs.com/package/chess.js)
 If the script error please click [`Issues`](https://github.com/FebbAdityaN/chess-wabot/issues/new)
+## Chess Board
+![IMG-20241120-WA0040](https://github.com/user-attachments/assets/42d79f95-ea7e-454a-9bb8-761f9908ca4b)
 ## INSTALL/PEMASANGAN
 Clone the repo and follow the installation instructions below (Default Bahasa Indonesia):
 ```
