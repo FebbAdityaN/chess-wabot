@@ -10,7 +10,7 @@ Clone the repo and follow the installation instructions below (Default Bahasa In
 ```
 git clone https://github.com/FebbAdityaN/chess-wabot
 ```
-For English language:
+For English Language:
 ```
 git clone -b lang_eng https://github.com/FebbAdityaN/chess-wabot
 ```
